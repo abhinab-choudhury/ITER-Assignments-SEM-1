@@ -1,4 +1,4 @@
-# Programming Assignment-6[SEM 1] 
+# Programming Assignment - 6
 
 [Lab Assignment 6.pdf](https://github.com/ankankp007/ICP-Assignment-SEM-1/files/14445207/Lab.Assignment.6.pdf)
 
