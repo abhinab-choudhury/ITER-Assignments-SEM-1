@@ -1,4 +1,4 @@
-# Programming-Assignment-3[SEM-1]
+# Programming Assignment - 3
 [Lab Assignment 3.pdf](https://github.com/abhinab-choudhury/Programming_Assignment_3_SEM_1/files/13536572/Lab.Assignment.3.pdf)
 
 ![Screenshot 2023-12-02 201905](https://github.com/abhinab-choudhury/Programming_Assignment_3_SEM_1/assets/132006996/34e24928-0455-4485-8c12-02e4356faf46)

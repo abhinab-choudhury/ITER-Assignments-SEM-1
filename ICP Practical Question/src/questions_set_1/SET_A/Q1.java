@@ -1,3 +1,14 @@
+/*
+ *
+ *	Q1. Write a Java method that checks if an array of integers contains three sequential numbers 
+ *	(e.g., 4, 5, 6 or 9, 10, 11) anywhere within it. 
+ *
+ *	public static boolean containsSequentialNumbers(int[] numbers) 
+ *	Write a program that prompts the user to enter a sequence of numbers, checks for sequential 
+ *	numbers, and displays an appropriate message
+ *
+ */
+
 package questions_set_1.SET_A;
 
 import java.util.Scanner;

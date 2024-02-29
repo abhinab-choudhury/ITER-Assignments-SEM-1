@@ -1,3 +1,11 @@
+/*
+ *  Q1. Write a Java method that takes a string as input and returns a new string where every 
+ *	consonant is replaced by the next consonant in the alphabet (e.g., "b" becomes "c", "z" becomes "a"). 
+ *  Vowels should remain unchanged. 
+ *	public static String transformString(String str)  
+ *	Write a program that prompts the user to enter a string and displays the transformed string.
+ */
+
 package questions_set_1.SET_B;
 
 import java.util.Scanner;

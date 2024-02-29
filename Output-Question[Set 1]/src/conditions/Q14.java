@@ -11,9 +11,9 @@ public class Q14 {
       case 'E':
         System.out.println("East");
         break;
-      case west: // Error : Constant Express Required
-        System.out.println("West");
-        break;
+      // case west: // Error : Constant Express Required
+      //   System.out.println("West");
+      //   break;
       case 'S':
         System.out.println("South");
     }

@@ -10,7 +10,7 @@ package questions_set_2;
  **/
 import java.util.Scanner;
 
-public class Q9 {
+public class Q11 {
   public static void main(String[] args) {
     Scanner obj = new Scanner(System.in);
     System.out.print("Enter a number : ");

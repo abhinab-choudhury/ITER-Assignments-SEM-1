@@ -1,3 +1,9 @@
+/*
+ * Q2. Write a Java program that includes a method to calculate the average value of each number 
+ * in an array with its immediate neighbours, excluding the first and last elements of the array. 
+ * The method should return a new array containing these calculated average values.
+ */
+
 package questions_set_1.SET_B;
 
 import java.util.Scanner;

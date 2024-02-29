@@ -1,3 +1,11 @@
+/*
+ *  Q2. Create a Java program that prompts the user for a sentence and implements a method to 
+ *	format this sentence so that each word starts with an uppercase letter and the rest are lowercase, 
+ *	regardless of how the input text was originally formatted. 
+ *	public static String formatSentence(String sentence) 
+ *	Display the formatted sentence.
+ */
+
 package questions_set_1.SET_A;
 
 import java.util.Scanner;

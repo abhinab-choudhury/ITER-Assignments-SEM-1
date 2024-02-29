@@ -142,7 +142,7 @@ public class Q1 {
     System.out.println(011+ 1.43 + "C" + "S");
     System.out.println(4>>1);
     byte b = 10;
-    b = b + 10B;
+    // b = b + 10B;
     System.out.println(b);
     obj.close();
   } 
