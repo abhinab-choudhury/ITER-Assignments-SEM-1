@@ -1,3 +1,11 @@
+/*
+ * Q1. Write a complete Java program that implements a method to determine the missing number 
+ * in a given array. The array contains integers from 1 to n, inclusive, with exactly one number 
+ * missing. There are no duplicates within the array. 
+ * public static int findMissingNumber(int[] numbers
+ * 
+ */
+
 package questions_set_1.SET_C;
 
 import java.util.Scanner;

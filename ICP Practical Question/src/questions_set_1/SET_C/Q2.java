@@ -1,3 +1,10 @@
+/* 
+ * Q2. Write a Java program that computes the smaller angle between the hour and minute hands 
+ * of an analog clock based on a given time. Your program should include a method with the 
+ * following signature to perform the calculation: 
+ * public static double clockAngle(int hour, int minute) 
+ * 
+ */
 package questions_set_1.SET_C;
 
 import java.util.Scanner;
