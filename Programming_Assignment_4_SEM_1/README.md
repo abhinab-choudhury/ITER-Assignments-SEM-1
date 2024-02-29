@@ -1,4 +1,4 @@
-# Programming-Assignment-4[SEM-1]
+# Programming Assignment - 4
 
 [Lab Assignment 4.pdf](https://github.com/abhinab-choudhury/Programming_Assignment_4_SEM_1/files/13590837/Lab.Assignment.4.pdf)
 
