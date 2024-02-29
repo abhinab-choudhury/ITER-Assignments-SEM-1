@@ -1,4 +1,4 @@
-# Programming Assignment SEM 1 
+# Programming Assignment - 1 
 
 [Lab Assignment 1.pdf](https://github.com/ankankp007/ICP-Assignment-SEM-1/files/14445039/Lab.Assignment.1.pdf)
 
