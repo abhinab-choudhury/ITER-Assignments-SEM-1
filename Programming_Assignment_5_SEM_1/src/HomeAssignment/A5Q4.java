@@ -2,7 +2,7 @@ package HomeAssignment;
 
 import java.util.Scanner;
 
-public class A5Q3 {
+public class A5Q4 {
   public static void main(String[] args) {
     double error = 1e-6;
     Scanner obj = new Scanner(System.in);
