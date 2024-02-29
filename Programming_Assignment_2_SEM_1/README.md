@@ -1,4 +1,4 @@
-# Programming-Assignment-2[SEM-1]
+# Programming Assignment - 2
 [Lab Assignment 2.pdf](https://github.com/abhinab-choudhury/Programming_Assignment_2_SEM_1/files/14210111/Lab.Assignment.2.pdf)
 
 ![P-1](https://github.com/ankankp007/ICP-Assignment-SEM-1/assets/146575795/99ec9072-df1b-4095-994e-bd2d58aec6c3)
