@@ -1,0 +1,16 @@
+curl 'https://soaportals.com/StudentPortalSOAAPI//StudentClassAttendance/getstudentattendancedetail' \
+-H 'Accept: application/json, text/plain, */*' \
+-H 'Accept-Language: en-US,en;q=0.9' \
+-H 'Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxL0xpeUd1emltUUd4RUVYdENyYjhRPT0iLCJzY29wZXMiOlt7ImF1dGhvcml0eSI6IlJPTEVfU1RVREVOVCJ9XSwiaXNzIjoiaHR0cDovL2NhbXB1c2x5bnguY29tIiwiaWF0IjoxNzE4MjI0MzgzLCJleHAiOjE3MTgyMzE1ODN9.1a3Brj0IR-PE0rkfvsDraom_ZVSsXNyF1TEDssR2Z3A' \
+-H 'Connection: keep-alive' \
+-H 'Content-Type: application/json' \
+-H 'Origin: https://soaportals.com' \
+-H 'Referer: https://soaportals.com/StudentPortalSOA/' \
+-H 'Sec-Fetch-Dest: empty' \
+-H 'Sec-Fetch-Mode: cors' \
+-H 'Sec-Fetch-Site: same-origin' \
+-H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36' \
+-H 'sec-ch-ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"' \
+-H 'sec-ch-ua-mobile: ?1' \
+-H 'sec-ch-ua-platform: "Android"' \
+--data - raw '{"instituteid":"SOAUINSD1312A0000002","registrationid":"ITERRETD2402A0000001"}'
