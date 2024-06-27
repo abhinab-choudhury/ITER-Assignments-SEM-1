@@ -1,0 +1,2 @@
+module Collage_Assignments {
+}
